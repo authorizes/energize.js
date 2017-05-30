@@ -1,0 +1,16 @@
+{
+  "name": "energize",
+  "version": "0.1.0",
+  "description": "A tiny JavaScript snippet to make links snappy on touch devices",
+  "main": "energize.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/authorizes/energize.js"
+  },
+  "author": "David Calhoun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/authorizes/energize.js/issues"
+  },
+  "homepage": "https://github.com/authorizes/energize.js#readme"
+}
